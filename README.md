@@ -1,4 +1,5 @@
 *CREATE MAPS, MARKERS AND CUSTOM MARKERS WITH FOLIUM*
+
 Detail maps are used to visualize data by showing the geographic dstribution of a particular attribute. they show patterns, trends, and relationships between variables, making it easy to identify areas with high or low values.
 
 First step, from Anaconda prompt, i install folium: pip install folium
